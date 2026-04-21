@@ -1,0 +1,6 @@
+{
+  "name": "Days Since Counter Widget",
+  "description": "A customizable Android-style countdown and count-up widget creator with adjustable fonts, colors, and layout properties for your home screen simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

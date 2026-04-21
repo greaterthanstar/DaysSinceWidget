@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Days Since Counter Widget</string>
+    <string name="widget_name">Days Since</string>
+</resources>
